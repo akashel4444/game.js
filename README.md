@@ -1,0 +1,2 @@
+# game.js
+simon game
